@@ -1,4 +1,4 @@
-package com.example.goran.poecollection.ui
+package com.example.goran.poecollection.ui.listing
 
 import android.arch.lifecycle.ViewModelProviders
 import android.content.Intent
@@ -11,6 +11,7 @@ import android.view.View
 import android.view.ViewGroup
 import com.example.goran.poecollection.R
 import com.example.goran.poecollection.data.Item
+import com.example.goran.poecollection.ui.reader.ReaderActivity
 import kotlinx.android.synthetic.main.fragment_listing.*
 import java.util.*
 

@@ -1,4 +1,4 @@
-package com.example.goran.poecollection.util
+package com.example.goran.poecollection.ui.reader
 
 import android.content.Context
 import android.support.v7.widget.AppCompatTextView

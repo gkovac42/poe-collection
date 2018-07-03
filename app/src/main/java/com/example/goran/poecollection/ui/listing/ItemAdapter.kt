@@ -1,4 +1,4 @@
-package com.example.goran.poecollection.ui
+package com.example.goran.poecollection.ui.listing
 
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
@@ -11,7 +11,7 @@ import kotlinx.android.synthetic.main.list_item.view.*
 class ItemAdapter(val items: ArrayList<Item>, val listener: (Item) -> Unit) : RecyclerView.Adapter<ItemAdapter.ViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int) = ViewHolder(LayoutInflater.from(parent.context)
-                    .inflate(R.layout.list_item, parent, false))
+            .inflate(R.layout.list_item, parent, false))
 
     override fun getItemCount() = items.size
 

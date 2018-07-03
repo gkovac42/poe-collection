@@ -1,4 +1,4 @@
-package com.example.goran.poecollection.ui
+package com.example.goran.poecollection.ui.reader
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity

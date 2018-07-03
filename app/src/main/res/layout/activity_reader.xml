@@ -20,7 +20,7 @@
             android:layout_marginBottom="16dp"
             android:textSize="18sp" />
 
-        <com.example.goran.poecollection.util.ZoomTextView
+        <com.example.goran.poecollection.ui.reader.ZoomTextView
             android:id="@+id/txtReaderBody"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />

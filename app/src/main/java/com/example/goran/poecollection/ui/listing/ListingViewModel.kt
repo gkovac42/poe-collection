@@ -1,4 +1,4 @@
-package com.example.goran.poecollection.ui
+package com.example.goran.poecollection.ui.listing
 
 import android.app.Application
 import android.arch.lifecycle.AndroidViewModel

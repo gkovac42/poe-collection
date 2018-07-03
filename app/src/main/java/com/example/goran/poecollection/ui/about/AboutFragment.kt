@@ -1,4 +1,4 @@
-package com.example.goran.poecollection.ui
+package com.example.goran.poecollection.ui.about
 
 import android.os.Bundle
 import android.support.v4.app.Fragment
