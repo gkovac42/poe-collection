@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Poe Collection</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="tab_text_1">About</string>
+    <string name="tab_text_2">Stories</string>
+    <string name="tab_text_3">Poems</string>
+
+    <string name="angel_title">The Angel of the Odd</string>
+    <string name="arnheim_title">The Domain of Arnheim</string>
+    <string name="balloon_title">The Balloon Hoax</string>
+    <string name="berenice_title">Berenice</string>
+    <string name="black_cat_title">The Black Cat</string>
+    <string name="cask_title">The Cask of Amontillado</string>
+    <string name="descent_title">A Descent Into The Maelström</string>
+    <string name="eleonora_title">Eleonora</string>
+    <string name="facts_valdemar_title">The Facts in the Case of M. Valdemar</string>
+    <string name="fall_usher_title">The Fall of the House of Usher</string>
+    <string name="gold_bug_title">The Gold Bug</string>
+    <string name="hop_frog_title">Hop-Frog</string>
+    <string name="imp_title">The Imp of the Perverse</string>
+    <string name="island_title">The Island of the Fay</string>
+    <string name="king_pest_title">King Pest</string>
+    <string name="landor_title">Landor\'s Cottage</string>
+    <string name="ligeia_title">Ligeia</string>
+    <string name="man_crowd_title">The Man of the Crowd</string>
+    <string name="manuscript_title">Manuscript Found in a Bottle</string>
+    <string name="masque_title">The Masque of the Red Death</string>
+    <string name="mesmeric_title">Mesmeric Revelation</string>
+    <string name="murders_title">The Murders in the Rue Morgue</string>
+    <string name="never_bet_title">Never Bet the Devil Your Head</string>
+    <string name="oblong_box_title">The Oblong Box</string>
+    <string name="oval_portrait_title">The Oval Portrait</string>
+    <string name="pit_pendulum_title">The Pit and the Pendulum</string>
+    <string name="premature_title">The Premature Burial</string>
+    <string name="purloined_title">The Purloined Letter</string>
+    <string name="silence_title">Silence - A Fable</string>
+    <string name="some_mummy_title">Some Words With a Mummy</string>
+    <string name="spectacles_title">The Spectacles</string>
+    <string name="sphinx_title">The Sphinx</string>
+    <string name="system_title">The System of Dr. Tarr and Prof. Fether</string>
+    <string name="telltale_title">The Tell-Tale Heart</string>
+    <string name="william_title">William Wilson</string>
+
+    <string name="alone_title">Alone</string>
+    <string name="annabel_lee_title">Annabel Lee</string>
+    <string name="the_bells_title">The Bells</string>
+    <string name="bridal_ballad_title">Bridal Ballad</string>
+    <string name="the_city_title">Ihe City in the Sea</string>
+    <string name="the_city_sin_title">The City of Sin</string>
+    <string name="the_coliseum_title">The Coliseum</string>
+    <string name="dreamland_title">Dreamland</string>
+    <string name="dream_within_title">Dream Within a Dream</string>
+    <string name="eldorado_title">Eldorado</string>
+    <string name="elizabeth_title">Elizabeth</string>
+    <string name="evening_star_title">Evening Star</string>
+    <string name="fairyland_title">Fairyland</string>
+    <string name="for_annie_title">For Annie</string>
+    <string name="the_haunted_palace_title">The Haunted Palace</string>
+    <string name="imitation_title">Imitation</string>
+    <string name="isadore_title">To Isadore</string>
+    <string name="israfel_title">Israfel</string>
+    <string name="the_lake_title">The Lake</string>
+    <string name="lenore_title">Lenore</string>
+    <string name="the_raven_title">The Raven</string>
+    <string name="romance_title">Romance</string>
+    <string name="the_sleeper_title">The Sleeper</string>
+    <string name="spirits_dead_title">Spirits of the Dead</string>
+    <string name="tamerlane_title">Tamerlane</string>
+    <string name="ulalume_title">Ulalume</string>
+
+    <string name="font_size">FONT SIZE:</string>
+    <string name="small">Small</string>
+    <string name="large">Large</string>
+    <string name="theme">THEME:</string>
+    <string name="dark">Dark</string>
+    <string name="light">Light</string>
+    <string name="normal">Normal</string>
+
+    <string name="quote0">\u201cI became insane, with long intervals of horrible sanity.\u201d</string>
+    <string name="quote1">\u201cAll that we see or seem is but a dream within a dream.\u201d</string>
+    <string name="quote2">\u201cThose who dream by day are cognizant of many things which escape those who dream only by night.\u201d </string>
+    <string name="quote3">\u201cI was never really insane except upon occasions when my heart was touched.\u201d </string>
+    <string name="quote4">\u201cThere is no exquisite beauty\u2026 without some strangeness in the proportion.\u201d </string>
+    <string name="quote5">\u201cI became insane, with long intervals of horrible sanity.\u201d</string>
+    <string name="quote6">\u201cThe customs of the world are so many conventional follies.\u201d</string>
+    <string name="quote7">\u201cThe scariest monsters are the ones that lurk within our souls.\u201d</string>
+
+    <string name="intro_body">Edgar Allan Poe (January 19, 1809 \u2013 October 7, 1849) was an American writer, editor, and literary critic born in Boston. Poe is best known for his poetry and short stories, particularly his tales of mystery and the macabre, and is generally considered the inventor of the detective fiction genre.\n</string>
+    <string name="early_life_body">Edgar Allan Poe\'s evocative short stories and poems captured the imagination and interest of readers around the world. His imaginative storytelling led to literary innovations, earning him the nickname \"Father of the Detective Story.\" Some aspects of his life, like his literature, is shrouded in mystery, and the lines between fact and fiction have been blurred substantially since his death.\n\nPoe never really knew his parents \u2014 Elizabeth Arnold Poe, a British actress, and David Poe, Jr., an actor who was born in Baltimore. His father left the family early in Poe\'s life, and his mother passed away from tuberculosis when he was only three. Separated from his brother William and sister Rosalie, Poe went to live with John and Frances Valentine Allan, a successful tobacco merchant and his wife, in Richmond, Virginia. Edgar and Frances seemed to form a bond, but he had a more difficult relationship with John Allan. By the age of 13, Poe was a prolific poet, but his literary talents were discouraged by his headmaster and John Allan, who preferred that Poe follow him in the family business. Preferring poetry over profits, Poe reportedly wrote poems on the back of some of Allan\'s business papers. \n\nMoney was also an issue between Poe and John Allan. Poe went to the University of Virginia in 1826, where he excelled in his classes, however, he didn\'t receive enough funds from Allan to cover all of his costs. Poe turned to gambling to cover the difference, but ended up in debt. He returned home only to face another personal setback\u2014his neighbor and fianc\u00e9e Sarah Elmira Royster had become engaged to someone else. Heartbroken and frustrated, Poe moved to Boston.\n</string>
+    <string name="early_career_body">While in Boston, Poe published his first book, Tamerlane and Other Poems in 1827. He also joined the U.S. Army around this time. Two years later, Poe learned that Frances Allan was dying of tuberculosis, but by the time he returned to Richmond she had already passed away. While in Virginia, Poe and Allan briefly made peace with each other, and Allan helped Poe get an appointment to the United States Military Academy at West Point. Before going to West Point, Poe published a second poetry collection Al Aaraaf, Tamerlane, and Minor Poems in 1829. Poe excelled at his studies at West Point, but he was kicked out after a year for his poor handling of his duties. During his time at West Point, Poe had fought with his foster father, who had remarried without telling him. Some have speculated that Poe intentionally sought to be expelled to spite Allan, who eventually cut ties with Poe. \n\nAfter leaving West Point, Poe published another book and focused on his writing full time. He traveled around in search of opportunity, living in New York City, Baltimore, Philadelphia and Richmond. From 1831 to 1835, he lived in Baltimore, where his father was born, with his aunt Maria Clemm and her daughter Virginia. In 1834, John Allan died, leaving Poe out of his will, but providing for an illegitimate child Allan had never met. \n\nPoe, who continued to struggle living in poverty, got a break when one of his short stories won a contest in the Baltimore Saturday Vister. He began to publish more short stories and in 1835 landed an editorial position with the Southern Literary Messenger in Richmond. During this time, Poe also began to devote his attention to his young cousin, Virginia, who became his literary inspiration, as well as his love interest. The couple married in 1836 when she was only 13 years old.\n\nAt the Southern Literary Messenger, Poe developed a reputation as a cut-throat critic, writing vicious reviews of his contemporaries. His scathing critiques earned him the nickname the \"Tomahawk Man.\" Poe also published some of his own works in the magazine, including two parts of his only novel, The Narrative of Arthur Gordon Pym. His tenure at the magazine proved short. Poe\'s aggressive-reviewing style and sometimes combative personality strained his relationship with the publication, and he left the magazine in 1837. His problems with alcohol also played a role in his departure, according to some reports. \n\nPoe went on to brief stints at Burton\'s Gentleman\'s Magazine, Graham\'s Magazine, The Broadway Journal, and he also sold his work to Alexander\u2019s Weekly Messenger, among other journals. Despite his success and popularity as a writer, Poe continued to struggle financially and he advocated for higher wages for writers and an international copyright law.\n </string>
+    <string name="major_works_body">In late 1830s, Poe published Tales of the Grotesque and Arabesque, a collection of stories. It contained several of his most spine-tingling tales, including \"The Fall of the House of Usher,\" \"Ligeia\" and \"William Wilson.\" Poe launched the new genre of detective fiction with 1841\'s \"The Murders in the Rue Morgue.\" A writer on the rise, he won a literary prize in 1843 for \"The Gold Bug,\" a suspenseful tale of secret codes and hunting treasure.\n\nIn 1844, Poe moved to New York City where he published a news story in The New York Sun about a balloon trip across the Atlantic Ocean that he later revealed to be a hoax. His stunt grabbed attention, but it was the 1845 publication of his poem \"The Raven\" which made him a literary sensation. \"The Raven\" is considered a great American literary work and one of the best of Poe\'s career. In the work, Poe explored some of his common themes\u2014death and loss. An unknown narrator laments the demise of his great love Lenore. That same year, he found himself under attack for his stinging criticisms of fellow poet Henry Wadsworth Longfellow. Poe claimed that Longfellow, a widely popular literary figure, was a plagiarist, which resulted in a backlash against Poe.\n\nContinuing work in different forms, Poe examined his own methodology and writing in general in several essays, including \"The Philosophy of Composition,\" \"The Poetic Principle\" and \"The Rationale of Verse.\" He also produced another thrilling tale, \"The Cask of Amontillado,\" and poems such as \"Ulalume\" and \"The Bells.\"\n</string>
+    <string name="mysterious_death_body">Poe was overcome by grief after the death of his beloved Virginia in 1847. While he continued to work, he suffered from poor health and struggled financially. His final days remain somewhat of a mystery. He left Richmond on September 27, 1849, and was supposedly on his way to Philadelphia. On October 3, Poe was found in Baltimore in great distress. He was taken to Washington College Hospital where he died on October 7. His last words were \"Lord, help my poor soul.\"\n\nAt the time, it was said that Poe died of \"congestion of the brain.\" But his actual cause of death has been the subject of endless speculation. Some experts believe that alcoholism led to his demise while others offer up alternative theories. Rabies, epilepsy, carbon monoxide poisoning are just some of the conditions thought to have led to the great writer\'s death.\n\nShortly after his passing, Poe\'s reputation was badly damaged by his literary adversary Rufus Griswold. Griswold, who had been sharply criticized by Poe, took his revenge in his obituary of Poe, portraying the gifted yet troubled writer as a mentally deranged drunkard and womanizer. He also penned the first biography of Poe, which helped cement some of these misconceptions in the public\'s minds.\n\nWhile he never had financial success in his lifetime, Poe has become one of America\'s most enduring writers. His works are as compelling today as they were more than a century ago. An innovative and imaginative thinker, Poe crafted stories and poems that still shock, surprise and move modern readers.\n</string>
+    <string name="introduction">Introduction</string>
+    <string name="early_life">Early Life</string>
+    <string name="early_career">Early Career</string>
+    <string name="major_works">Major Works</string>
+    <string name="mysterious_death">Mysterious Death</string>
+    <string name="mark_completed">Mark completed</string>
+
+</resources>
