@@ -9,6 +9,8 @@ import android.support.v7.app.AppCompatActivity
 import com.example.goran.poecollection.R
 import com.example.goran.poecollection.ui.about.AboutFragment
 import com.example.goran.poecollection.ui.listing.ListingFragment
+import com.example.goran.poecollection.ui.listing.MODE_POEMS
+import com.example.goran.poecollection.ui.listing.MODE_STORIES
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -34,8 +36,8 @@ class MainActivity : AppCompatActivity() {
 
     private fun initFragments(): Array<Fragment> {
         val aboutFragment = AboutFragment()
-        val storiesFragment = ListingFragment.newInstance(R.array.stories_array, R.array.stories_body_array)
-        val poemsFragment = ListingFragment.newInstance(R.array.poems_array, R.array.poems_body_array)
+        val storiesFragment = ListingFragment.newInstance(MODE_STORIES)
+        val poemsFragment = ListingFragment.newInstance(MODE_POEMS)
 
         return arrayOf(aboutFragment, storiesFragment, poemsFragment)
     }

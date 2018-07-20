@@ -8,7 +8,8 @@ import com.example.goran.poecollection.R
 import com.example.goran.poecollection.data.Item
 import kotlinx.android.synthetic.main.list_item.view.*
 
-class ItemAdapter(val items: ArrayList<Item>, val listener: (Item) -> Unit) : RecyclerView.Adapter<ItemAdapter.ViewHolder>() {
+class ItemAdapter(val items: List<Item>,
+                  val listener: (Item) -> Unit) : RecyclerView.Adapter<ItemAdapter.ViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int) = ViewHolder(LayoutInflater.from(parent.context)
             .inflate(R.layout.list_item, parent, false))
